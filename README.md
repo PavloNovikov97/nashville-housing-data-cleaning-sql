@@ -11,7 +11,7 @@ This project focuses on cleaning raw housing transaction data from Nashville (20
 - **Tools**: PostgreSQL
 - **ER Diagram**
 <p align="center">
-  <img src="./images/schema_diagram_nash.png" alt="Schema Diagram" width="400" />
+  <img src="./images/schema_diagram_nash.png" alt="Schema Diagram" width="160" />
 </p>
 
 ---
